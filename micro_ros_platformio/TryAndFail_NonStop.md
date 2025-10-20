@@ -31,6 +31,9 @@ Mở terminal và chạy:
 ```bash
 ls /dev/ttyUSB*
 ```
+```bash
+ls /dev/tty*
+```
 hoặc:
 ```bash
 ls /dev/ttyACM*
